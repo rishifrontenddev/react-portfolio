@@ -1,4 +1,4 @@
-import aboutImg from "../assets/about1.jpg";
+import aboutImg from "../assets/about2.jpeg";
 import { motion } from "motion/react";
 
 export default function About() {
@@ -31,7 +31,7 @@ export default function About() {
             className="flex items-center justify-center"
           >
             <img
-              className="rounded-2xl h-110 w-auto"
+              className="rounded-2xl h-80 w-110"
               src={aboutImg}
               alt="about"
             />
