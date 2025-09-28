@@ -18,6 +18,13 @@ export const EXPERIENCES = [
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
     technologies: ["HTML", "CSS", "React.js", "Next.js", "MySql"],
   },
+  {
+    year: "2023 - 2025",
+    role: "React.js Developer",
+    company: "YOGROW SOLUTIONS ",
+    description: `Built and maintained dynamic, responsive web applications with React.js and Next.js. Collaborated with backend teams to integrate REST APIs built with Node.js, ensuring seamless data flow. Enhanced UI/UX with pixel-perfect responsive designs and optimized performance for faster load times and smoother user interactions.`,
+    technologies: ["HTML", "CSS", "React.js", "Next.js"],
+  },
 ];
 
 export const PROJECTS = [

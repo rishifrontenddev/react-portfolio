@@ -14,23 +14,20 @@ const Navbar = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          {" "}
-          <FaLinkedin />{" "}
+          <FaLinkedin />
         </a>
         <a
           href="https://github.com/rishifrontenddev"
           target="_blank"
           rel="noopener noreferrer"
         >
-          {" "}
-          <FaGithub />{" "}
+          <FaGithub />
         </a>
         <a
           href="https://www.instagram.com/hrishitunscripted/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          {" "}
           <FaInstagram />
         </a>
       </div>
